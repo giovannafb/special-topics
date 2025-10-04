@@ -1,0 +1,7 @@
+mypy==1.17.1
+sqlalchemy==2.0.43
+pymysql==1.1.2
+pandas==2.3.2
+notebook==7.4.5 #junyper notebook
+ipykernel==6.30.1 # debug notebook
+matplotlib==3.10.6
