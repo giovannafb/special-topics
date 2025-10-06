@@ -1,3 +1,5 @@
 Dataset: Student Success: Factors & Insights
 Link: https://www.kaggle.com/datasets/anassarfraz13/student-success-factors-and-insights
 
+Dataset: Salary Prediction Dataset
+Link: https://www.kaggle.com/api/v1/datasets/download/wardabilal/salary-prediction-dataset
